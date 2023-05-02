@@ -1,1 +1,1 @@
-"# DesignPatternImplementations" 
+# DesignPatternImplementations
